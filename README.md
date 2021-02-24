@@ -8,3 +8,6 @@ Bancos de dados Postgres, Mysql e CtreeSql.
 Estou fomentando os estudos em ReactNative e Flutter com o intuito de me especializar em desenvolvimento mobile hibrido.
 
 Um dos projetos realizados foi a rede social de receitas https://www.cookbookfritzefrida.com.br/
+
+Email: miguelg_sl@hotmail.com
+https://www.linkedin.com/in/miguel-garcia-947a1534/
